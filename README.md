@@ -60,6 +60,7 @@ This project seeks to answer the following business questions:
 
 
 ## Project Summary
+
 | Metric | Value|
 |--------|------|
 |Dataset| Onlie RetailⅡ|
@@ -83,6 +84,7 @@ The dataset includes customer purchases made between **December 2009 and Decembe
 - **Link:** https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
 
 ### Key Variables
+
 | Column | Description |
 |---------|-------------|
 | Invoice | Invoice number |
@@ -110,16 +112,21 @@ The following processing steps were applied before analysis:
 ```text
 data/
 ├── raw/
-│   └── online_retail_II.xlsx
+│   └── (download from Kaggle)
 └── processed/
     └── online_retail_cleaned.csv
-> The raw dataset is not included in this repository due to file size limitations. Please download it from the Kaggle link above.
+```
+
+> The raw dataset is not included in this repository due to file size limitations. 
+> Please download it from the Kaggle link above.
 
 ## 📊 Exploratory Data Analysis
 
 ### 1. Sales Performance
 
 The sales analysis examined monthly revenue, order volume, and average order value to identify long-term business trends and seasonal patterns.
+<img width="1190" height="490" alt="image" src="https://github.com/user-attachments/assets/4942b510-2e0c-446a-9655-900516c21220" />
+
 
 **Key Findings**
 
