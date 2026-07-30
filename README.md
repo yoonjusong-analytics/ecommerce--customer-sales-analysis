@@ -1,22 +1,34 @@
-# E-commerce Customer Behavior & Sales Performance Analysis
+# E-commerce Customer Sales Analysis
+
+Business-driven customer analytics project using Python and RFM analysis to uncover customer behavior, sales trends, and actionable business insights.
 
 **Google Data Analytics Professional Certificate Capstone Project**
 
-Business Intelligence | SQL | Tableau | Excel | Customer Analytics
+## 🛠 Tech Stack
 
-## Project Overview 
+Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook • Git • GitHub
+
+## 📊 Analytics Skills 
+
+Data Cleaning • Exploratory Data Analysis (EDA) • RFM Customer Segmentation • Customer Analytics • Business Intelligence
+
+## 🔄 Proeject Workflow 
+
+Dataset → Data Quality Assessment → Data Cleaning → EDA → RFM Analysis → Business Recommendations
+
+## 📌 Project Overview 
 
 This project analyzes customer purchasing behavior and sales performance using the Online Retail II dataset. 
 
 The objective is to identify purchasing patterns, evaluate sales trends, and generate actionable business insights that support revenue growth and improve customer retention.
 
-## Business Objective 
+## 🎯 Business Objective 
 
 The primary objective of this project is to analyze customer purchasing behavior and sales performance to identify opportunities for increasing revenue and improving customer retention. 
 
 The analysis aims to support data-driven business decision-making through meaningful insights derived from transaction data.
 
-## Business Questions
+## ❓ Business Questions
 
 This project seeks to answer the following business questions:
 
@@ -26,7 +38,7 @@ This project seeks to answer the following business questions:
 - Which countries generate the highest revenue?
 - What purchasing patterns can improve customer retention?
 
-## Dataset
+## 📂 Dataset
 
 ### Dataset Information
 
