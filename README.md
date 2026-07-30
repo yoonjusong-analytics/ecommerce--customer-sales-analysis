@@ -125,8 +125,10 @@ data/
 ### 1. Sales Performance
 
 The sales analysis examined monthly revenue, order volume, and average order value to identify long-term business trends and seasonal patterns.
-<img width="1190" height="490" alt="image" src="https://github.com/user-attachments/assets/4942b510-2e0c-446a-9655-900516c21220" />
 
+### Monthly Sales Trend
+
+![Monthly Sales Trend](images/monthly_sales_trend.png)
 
 **Key Findings**
 
@@ -138,6 +140,9 @@ The sales analysis examined monthly revenue, order volume, and average order val
 
 Customer activity was analyzed by tracking the number of active customers over time.
 
+### Active Customers
+![Active Customers](images/active_customers.png)
+
 **Key Findings**
 
 - The number of active customers increased steadily.
@@ -148,6 +153,11 @@ Customer activity was analyzed by tracking the number of active customers over t
 
 Sales performance was compared across different countries to identify major international markets.
 
+### Sales by Country
+![Sales by Country](images/sales_by_country(Including UK).png)
+
+![Sales by Country](images/sales_by_country(excluding UK).png)
+
 **Key Findings**
 
 - The United Kingdom generated the largest share of revenue.
@@ -157,6 +167,10 @@ Sales performance was compared across different countries to identify major inte
 ### 4. Product Analysis
 
 Product performance was evaluated using sales revenue, purchasing quantity, and cumulative contribution.
+
+### Pareto Analysis 
+
+![Pareto Analysis](images/paretoanalysis.png)
 
 **Key Findings**
 
