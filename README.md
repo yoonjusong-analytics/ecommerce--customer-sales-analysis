@@ -128,7 +128,7 @@ The sales analysis examined monthly revenue, order volume, and average order val
 
 ### Monthly Sales Trend
 
-![Monthly Sales Trend](images/monthly_sales_trend.png)
+
 
 **Key Findings**
 
@@ -141,7 +141,7 @@ The sales analysis examined monthly revenue, order volume, and average order val
 Customer activity was analyzed by tracking the number of active customers over time.
 
 ### Active Customers
-![Active Customers](images/active_customers.png)
+
 
 **Key Findings**
 
@@ -170,7 +170,7 @@ Product performance was evaluated using sales revenue, purchasing quantity, and 
 
 ### Pareto Analysis 
 
-![Pareto Analysis](images/paretoanalysis.png)
+
 
 **Key Findings**
 
