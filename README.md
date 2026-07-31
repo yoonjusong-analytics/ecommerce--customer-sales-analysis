@@ -164,7 +164,6 @@ Monitoring active customers can help evaluate acquisition, engagement, and seaso
 
 Compare sales performance across countries and identify major international markets.
 
-![Sales by Country](images/04_sales_by_country%20_including%20_uk.png)
 ![Sales by Country](images/03_sales_by%20country_excluding_uk.png)
 
 Sales performance was compared across different countries to identify major international markets.
