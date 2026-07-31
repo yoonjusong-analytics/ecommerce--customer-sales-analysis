@@ -124,53 +124,72 @@ data/
 
 ### 1. Sales Performance
 
-The sales analysis examined monthly revenue, order volume, and average order value to identify long-term business trends and seasonal patterns.
+** Analysis Purpose**
 
-### Monthly Sales Trend
+Examine monthly revenue, order volume, and average order value to identify sales trends trends and seasonal patterns.
 
-
+![Monthly Sales Trend](images/01_monthly_sales_trend.png)
 
 **Key Findings**
 
-- Sales showed a clear upward trend over the analysis period.
-- Revenue increased significantly during the holiday season.
-- Order volume and revenue generally moved together, indicating healthy business growth.
+- Sales increased over the analysis period, with noticeable seasonal fluctuations.
+- Revenue peaked during the year-end holiday season.
+- Revenue and order volume generally moved in the same direction.
+
+**Business Implication**
+
+Seasonal demand patterns can support inventory planning, promotional timing, and resource allocation.
 
 ### 2. Customer Activity
 
-Customer activity was analyzed by tracking the number of active customers over time.
+**Analysis Purpose**
 
-### Active Customers
+Track monthly active customers to understand changes in customer participation over time.
 
+![Monthly Active Customers](images/02_active_customers.png)
 
 **Key Findings**
 
-- The number of active customers increased steadily.
-- Customer growth closely followed revenue growth.
-- The business expanded both in customer acquisition and purchasing activity.
+- Active customer counts fluctuated across the analysis period.
+- Customer activity increased during high-sales months.
+- Higher customer participation generally concluded with stronger revenue performance.
+
+**Business Implication**
+
+Monitoring active customers can help evaluate acquisition, engagement, and seasonal campaign performance. 
 
 ### 3. Geographic Analysis
 
+**Analysis Purpose**
+
+Compare sales performance across countries and identify major international markets.
+
+![Sales by Country](images/04_sales_by_country%20_including%20_uk.png)
+![Sales by Country](images/03_sales_by%20country_excluding_uk.png)
+
 Sales performance was compared across different countries to identify major international markets.
-
-### Sales by Country
-![Sales by Country](images/sales_by_country(Including UK).png)
-
-![Sales by Country](images/sales_by_country(excluding UK).png)
 
 **Key Findings**
 
-- The United Kingdom generated the largest share of revenue.
-- To improve readability, visualizations focused on the top 10 countries by sales.
-- Several non-UK markets showed strong revenue potential.
+- The dataset contains transactions from 42 countires.
+- The United Kingdom generated the dominat share of total revenue.
+- The visualization focuses on the top 10 countires to improve readability and hightlight the strongest markets.
+- The visualization focuses on the top 10 countries to provide a clearer comparision of international markets.
+- Several non-UK European markets showed meaningful sales potential.
+
+**Business Implication**
+
+Country-level performance can guide market prioritization, localized campaigns, and international expansion decisions.
 
 ### 4. Product Analysis
 
+**Analysis Purpose**
+
+Evaluate product performance using revenue, quantity sold, and cumulative sales contribution.
+
+![Product Pareto Analysis](images/05_pareto_analysis.png)
+
 Product performance was evaluated using sales revenue, purchasing quantity, and cumulative contribution.
-
-### Pareto Analysis 
-
-
 
 **Key Findings**
 
@@ -178,49 +197,14 @@ Product performance was evaluated using sales revenue, purchasing quantity, and 
 - Product demand was highly concentrated.
 - Pareto analysis confirmed that a limited number of products contributed most of the sales. 
 
+### EDA Summary
+
+The exploratory analysis identified strong seasonality, geographic concentration, differences in customer activity, and uneven product contribution. These findings provide the foundation for the next stage of the project: segmenting customer according to their purchasing behavior and value.
+
 
 ### License
 
 This dataset is distributed through Kaggle for educational and research purposes. Please refer to the dataset page for the latest licensing and usage terms.
 
-### Data Dictionary
 
-| Variable | Description |
-|----------|-------------|
-| Invoice | Invoice number |
-| StockCode | Product code |
-| Description | Product description |
-| Quantity | Quantity purchased |
-| InvoiceDate | Date and time of purchase |
-| Price | Unit price |
-| Customer ID | Customer identifier |
-| Country | Customer country |
-
-## Project Workflow
-
-This project follows the Google Data Analytics Process.
-
-- Ask
-- Prepare
-- Process
-- Analyze
-- Share
-- Act
-
-## Tools
-
-- Excel
-- SQL
-- Tableau
-- GitHub
-
-## Repository Structure
-data/
-excel/
-sql/
-tableau/
-presentation/
-report/
-images/
-docs/
 
