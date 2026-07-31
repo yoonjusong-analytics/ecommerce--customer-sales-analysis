@@ -252,7 +252,7 @@ The recommendations below are derived directly from the exploratory data analysi
 
 | Finding | Recommendation | Expected Business Impact | 
 |----------|----------------|--------------------------|
-| A large propotion of customers were classified as **Lost Customers**. | Launch personalized win-back campaigns with targeted promotions and email marketing.|Increased customer retention and recover inactive customers. |
+| **Lost Customers** was the largest customer segment. | Launch personalized win-back campaigns with targeted promotions and email marketing.|Increased customer retention and recover inactive customers. |
 |**Champion** and **Loyal Customer** segments generated the highest customer value. | Strengthen loyalty programs through exclusove rewards, early access, and personalized offers. | Improve customer lifetime value (CLV) and long-term customer loyalty. | 
 | Sales showed strong seasonality, particularly during the holiday period. | Optimize inventory planning and schedule marketing campaigns around seasonal demand. | Reduce stock shortages and maximize seasonal revenue. | 
 | Revenue was concentrated among a relatively small number of products. | Prioritize high-performing products while promoting lower-performing products through bundles and cross-selling. | Improve product sales efficiency and increase average order value (AOV). | 
