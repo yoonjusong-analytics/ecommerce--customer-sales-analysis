@@ -200,6 +200,63 @@ Product performance was evaluated using sales revenue, purchasing quantity, and 
 
 The exploratory analysis identified strong seasonality, geographic concentration, differences in customer activity, and uneven product contribution. These findings provide the foundation for the next stage of the project: segmenting customer according to their purchasing behavior and value.
 
+## 👥 Customer Segmentation Analysis
+
+### Analysis Purpose
+
+RFM (Recency, Frequency, Monetary) analysis was conducted to segment customers based on purchasing behavior. The objective was to identify high-value customer groups, understand customer value distribution, and support targeted retention and marketing strategies.
+
+### RFM Overview
+
+RFM analysis evaluate customer value using three behavioral metrics:
+
+| Metric | Description |
+|---------|-------------|
+| **Recency (R)** | Number of days since the customer's last purchase |
+| **Frequency (F)** | Number of purchase transactions |
+| **Monetary (M)** | Total amount spent by the customer | 
+
+### Customer Segment Distribution
+
+![Customer Segment Distribution](images/06_rfm_segments.png)
+
+The Customer base was segmented into seven behavioral groups based on purchasing recency, purchase frequency, and total spending.
+
+### Revenue contribution by Segment
+
+![Revenue by Customer Segment](images/07_revenue_by_customer_segment.png)
+
+Comparing revenue accross customer segments highlights with groups contribute the greatest business value.
+
+### Key Findings 
+
+- Customers were successfully segmented into seven groups using RFM framework.
+- **Lost Customers** represented the largest customer segment, indicating substantial opportunities for customer reactivation. 
+- **Champions** and **Loyal Customers** segment contributed disproportionately to business value despite representing a smaller share of the customer base.
+- Customer purchasing behavior varied significantly across segments, enabling differentiated marketing strategies.
+
+### Business Implication
+
+The RFM segmentation provides a foundation for customer-centric marketing and retention strategies.
+
+Recommended action include:
+
+- Reward **Champions** and **Loyal Customers** with exclusive loyalty benefits.
+- Lauch personalized win-back campaigns targeting **Lost Customers** segments. 
+- Engage repeat purchases from **Potential Loyalists** customers through targeted promotions. 
+- Develop proactive retention programs for **Need Attention** and **At Risk** customers before churn occurs.
+
+## Business Recommendations
+
+The recommendations below are derived directly from the exploratory data analysis and RFM customer segmentation results.
+
+| Finding | Recommendation | Expected Business Impact | 
+|----------|----------------|--------------------------|
+| A large propotion of customers were classified as **Lost Customers**. | Launch personalized win-back campaigns with targeted promotions and email marketing.|Increased customer retention and recover inactive customers. |
+|**Champion** and **Loyal Customer** segments generated the highest customer value. | Strengthen loyalty programs through exclusove rewards, early access, and personalized offers. | Improve customer lifetime value (CLV) and long-term customer loyalty. | 
+| Sales showed strong seasonality, particularly during the holiday period. | Optimize inventory planning and schedule marketing campaigns around seasonal demand. | Reduce stock shortages and maximize seasonal revenue. | 
+| Revenue was concentrated among a relatively small number of products. | Prioritize high-performing products while promoting lower-performing products through bundles and cross-selling. | Improve product sales efficiency and increase average order value (AOV). | 
+|International sales performance varied across countries. | Prioritize high-potential international markets and localized marketing strategies. | Support subtainable international business growth. | 
 
 ### License
 
