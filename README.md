@@ -124,7 +124,7 @@ data/
 
 ### 1. Sales Performance
 
-** Analysis Purpose**
+**Analysis Purpose**
 
 Examine monthly revenue, order volume, and average order value to identify sales trends trends and seasonal patterns.
 
@@ -218,7 +218,7 @@ RFM analysis evaluate customer value using three behavioral metrics:
 
 ### Customer Segment Distribution
 
-![Customer Segment Distribution](images/06_rfm_segments.png)
+![Customer Distribution by Segment](images/06_rfm_segments.png)
 
 The Customer base was segmented into seven behavioral groups based on purchasing recency, purchase frequency, and total spending.
 
