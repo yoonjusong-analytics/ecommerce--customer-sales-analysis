@@ -246,7 +246,7 @@ Recommended action include:
 - Engage repeat purchases from **Potential Loyalists** customers through targeted promotions. 
 - Develop proactive retention programs for **Need Attention** and **At Risk** customers before churn occurs.
 
-## Business Recommendations
+## 💡 Business Recommendations
 
 The recommendations below are derived directly from the exploratory data analysis and RFM customer segmentation results.
 
@@ -258,9 +258,65 @@ The recommendations below are derived directly from the exploratory data analysi
 | Revenue was concentrated among a relatively small number of products. | Prioritize high-performing products while promoting lower-performing products through bundles and cross-selling. | Improve product sales efficiency and increase average order value (AOV). | 
 |International sales performance varied across countries. | Prioritize high-potential international markets and localized marketing strategies. | Support subtainable international business growth. | 
 
-### License
 
-This dataset is distributed through Kaggle for educational and research purposes. Please refer to the dataset page for the latest licensing and usage terms.
+## 🚀 Future Improvement
+
+Future enhancements for this project may includ:
+
+- Develop a Customer Lifetime Value (CLV) prediction model.
+- Build a customer churn prediction model using machine learning.
+- Perform cohort analysis to evaluate customer retention over time.
+- Develop an interactive Tableau or Power BI dashboard.
+- Apply time-series forecasting to predict future sales trends.
+
+## 📂 Repository Structure
+
+```text
+ecommerce-customer-sales-analysis/
+│
+├── dashboard/
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── README.md
+│
+├── docs/
+├── images/
+├── notebooks/
+├── reports/
+├── sql/
+│
+├── README.md
+├── LICENSE
+└── .gitignore
+
+---
+
+### ④ How to Run
+
+```
+
+## ▶ How to Run
+
+1. Clone this repository
+2. Download the Online Retail Ⅱ dataset from Kaggle.
+3. Place the dataset into the `data/raw/` directory.
+4. Open the notebooks in VS Code or Jupyter Notebook.
+5. Run the notebooks sequentially from data quality assessment to business recommendation.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+The Online Retail Ⅱ dataset is provided by the UCI Machine Learning Repository and distributed through Kaggle for educational purposes.
+
+## 🙎‍♀️ Author 
+
+**Yoonju Song**
+
+Google Data Analytics Professioanl Certificate Capstone Project
+- GitHub: https://github.com/yoonjusong-analytics
+- LinkedIn: https://www.linkedin.com/in/yoonju-song/
 
 
 
