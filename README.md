@@ -3,6 +3,7 @@
 Business-driven customer analytics project using Python and RFM analysis to uncover customer behavior, sales trends, and actionable business insights.
 
 **Capstone Project for Google Data Analytics Professional Certificate**
+**Status:** Completed ✔
 
 ## 🛠 Tech Stack
 
@@ -63,7 +64,7 @@ This project seeks to answer the following business questions:
 
 | Metric | Value |
 |--------|------:|
-| Dataset| Onlie RetailⅡ|
+| Dataset| Onlie Retail Ⅱ |
 | Analysis Period | Dec 2009 - Dec 2011 |
 | Original Transactions | 1,067,371 |
 | Transactions After Cleaning | 1,028,001 |
@@ -170,10 +171,10 @@ Sales performance was compared across different countries to identify major inte
 
 **Key Findings**
 
-- The dataset contains transactions from 42 countires.
-- The United Kingdom generated the dominat share of total revenue.
-- The visualization focuses on the top 10 countires to improve readability and hightlight the strongest markets.
-- The visualization focuses on the top 10 countries to provide a clearer comparision of international markets.
+- The dataset contains transactions from 43 countires.
+- The United Kingdom generated the dominant share of total revenue.
+- The visualization focuses on the top 10 countries to improve readability and highlight the strongest markets.
+- The visualization focuses on the top 10 countries to provide a clearer comparison of international markets.
 - Several non-UK European markets showed meaningful sales potential.
 
 **Business Implication**
@@ -208,7 +209,7 @@ RFM (Recency, Frequency, Monetary) analysis was conducted to segment customers b
 
 ### RFM Overview
 
-RFM analysis evaluate customer value using three behavioral metrics:
+RFM analysis evaluates customer value using three behavioral metrics:
 
 | Metric | Description |
 |---------|-------------|
@@ -220,13 +221,13 @@ RFM analysis evaluate customer value using three behavioral metrics:
 
 ![Customer Distribution by Segment](images/06_rfm_segments.png)
 
-The Customer base was segmented into seven behavioral groups based on purchasing recency, purchase frequency, and total spending.
+The customer base was segmented into seven behavioral groups based on purchasing recency, purchase frequency, and total spending.
 
 ### Revenue contribution by Segment
 
 ![Revenue by Customer Segment](images/07_revenue_by_customer_segment.png)
 
-Comparing revenue accross customer segments highlights with groups contribute the greatest business value.
+Comparing revenue across customer segments highlights which groups contribute the greatest business value.
 
 ### Key Findings 
 
@@ -239,10 +240,10 @@ Comparing revenue accross customer segments highlights with groups contribute th
 
 The RFM segmentation provides a foundation for customer-centric marketing and retention strategies.
 
-Recommended action include:
+Recommended actions include:
 
 - Reward **Champions** and **Loyal Customers** with exclusive loyalty benefits.
-- Lauch personalized win-back campaigns targeting **Lost Customers** segments. 
+- Launch personalized win-back campaigns targeting **Lost Customers** segments. 
 - Engage repeat purchases from **Potential Loyalists** customers through targeted promotions. 
 - Develop proactive retention programs for **Need Attention** and **At Risk** customers before churn occurs.
 
@@ -252,16 +253,16 @@ The recommendations below are derived directly from the exploratory data analysi
 
 | Finding | Recommendation | Expected Business Impact | 
 |----------|----------------|--------------------------|
-| **Lost Customers** was the largest customer segment. | Launch personalized win-back campaigns with targeted promotions and email marketing.|Increased customer retention and recover inactive customers. |
-|**Champion** and **Loyal Customer** segments generated the highest customer value. | Strengthen loyalty programs through exclusove rewards, early access, and personalized offers. | Improve customer lifetime value (CLV) and long-term customer loyalty. | 
+| **Lost Customers** represented the largest customer segment. | Launch personalized win-back campaigns with targeted promotions and email marketing.|Increased customer retention and recover inactive customers. |
+|**Champion** and **Loyal Customer** segments generated the highest customer value. | Strengthen loyalty programs through exclusive rewards, early access, and personalized offers. | Improve customer lifetime value (CLV) and long-term customer loyalty. | 
 | Sales showed strong seasonality, particularly during the holiday period. | Optimize inventory planning and schedule marketing campaigns around seasonal demand. | Reduce stock shortages and maximize seasonal revenue. | 
 | Revenue was concentrated among a relatively small number of products. | Prioritize high-performing products while promoting lower-performing products through bundles and cross-selling. | Improve product sales efficiency and increase average order value (AOV). | 
-|International sales performance varied across countries. | Prioritize high-potential international markets and localized marketing strategies. | Support subtainable international business growth. | 
+|International sales performance varied across countries. | Prioritize high-potential international markets and localized marketing strategies. | Support sustainable international business growth. | 
 
 
-## 🚀 Future Improvement
+## 🚀 Future Improvements
 
-Future enhancements for this project may includ:
+Future enhancements for this project may include:
 
 - Develop a Customer Lifetime Value (CLV) prediction model.
 - Build a customer churn prediction model using machine learning.
@@ -289,11 +290,6 @@ ecommerce-customer-sales-analysis/
 ├── README.md
 ├── LICENSE
 └── .gitignore
-
----
-
-### ④ How to Run
-
 ```
 
 ## ▶ How to Run
@@ -314,9 +310,13 @@ The Online Retail Ⅱ dataset is provided by the UCI Machine Learning Repository
 
 **Yoonju Song**
 
-Google Data Analytics Professioanl Certificate Capstone Project
+Google Data Analytics Professional Certificate Capstone Project
 - GitHub: https://github.com/yoonjusong-analytics
 - LinkedIn: https://www.linkedin.com/in/yoonju-song/
 
+## 🙏 Acknowledgements
 
+- Google Data Analytics Professional Certificate
+- UCI Machine Learning Repository
+- Kaggle
 
