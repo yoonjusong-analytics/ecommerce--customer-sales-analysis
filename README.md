@@ -61,14 +61,14 @@ This project seeks to answer the following business questions:
 
 ## Project Summary
 
-| Metric | Value|
-|--------|------|
-|Dataset| Onlie RetailⅡ|
-|Analysis Period| Dec 2009 - Dec 2011|
-|Original Transactions| 1,067,371|
-|Transactions After Cleaning | 1,028,001|
-|Customers Analyzed|5,878|
-|Countries|43|
+| Metric | Value |
+|--------|------:|
+| Dataset| Onlie RetailⅡ|
+| Analysis Period | Dec 2009 - Dec 2011 |
+| Original Transactions | 1,067,371 |
+| Transactions After Cleaning | 1,028,001 |
+| Customers Analyzed | 5,878 |
+| Countries| 43 |
 
 ## 📂 Dataset Overview
 
